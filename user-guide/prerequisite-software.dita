@@ -3,12 +3,14 @@
 <!--This file is part of the DITA Open Toolkit project. See the accompanying LICENSE.md file for applicable licenses.-->
 
 <concept id="prerequisite-software">
-  <title>Prerequisite software George</title>
+  <title>Prerequisite software</title>
   <shortdesc>The prerequisite software that the DITA-OT requires depends on the types of transformations that you want
     to use.</shortdesc>
   <conbody>
     <section>
-      <title>Software required for core DITA-OT processing</title>
+      <title>Software required
+        for<?oxy_delete author="George Bina" timestamp="20151117T105851+0200" content=" core"?>
+        DITA-OT processing</title>
       <p>The DITA-OT requires the following software applications:<dl>
           <dlentry>
             <dt>JRE or JDK, version <keyword keyref="tool.java.version"/> or later</dt>
@@ -57,3 +59,4 @@
     </section>
   </conbody>
 </concept>
+<?oxy_options track_changes="on"?>
